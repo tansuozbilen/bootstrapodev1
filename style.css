@@ -1,0 +1,13 @@
+.card-body {
+    background-color: #E9ECEF;
+}
+
+.button {
+    font-size: 9px;
+    color:aqua;
+    background-color: grey;
+}
+
+.card-title {
+    color: rgb(164, 16, 186);
+}
